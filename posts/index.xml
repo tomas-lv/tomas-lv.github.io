@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Tomas-Lv Research Blog</title>
+        <link>http://tomas-lv.github.io/posts/</link>
+        <description>All Posts | Tomas-Lv Research Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Jun 2022 17:09:34 &#43;0800</lastBuildDate><atom:link href="http://tomas-lv.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Publications</title>
+    <link>http://tomas-lv.github.io/posts/publications/</link>
+    <pubDate>Sun, 05 Jun 2022 17:09:34 &#43;0800</pubDate>
+    <author>Huibin Lv</author>
+    <guid>http://tomas-lv.github.io/posts/publications/</guid>
+    <description><![CDATA[A highly conserved cryptic epitope in the receptor binding domains of SARS-CoV-2 and SARS-CoV M Yuan, NC Wu, X Zhu, CCD Lee, RTY So, H Lv, CKP Mok, IA Wilson Science 368 (6491), 630-633 1141	2020
+  Systems biological assessment of immunity to mild versus severe COVID-19 infection in humans PS Arunachalam, F Wimmers, CKP Mok, RAPM Perera, M Scott, T Hagan, &hellip; Science 369 (6508), 1210-1220 609	2020]]></description>
+</item>
+</channel>
+</rss>
